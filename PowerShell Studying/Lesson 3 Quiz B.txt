@@ -1,0 +1,296 @@
+﻿Question 1
+10 out of 10 points
+
+
+
+
+
+
+A string object with the value "" when cast to a boolean will evaluate as
+
+
+
+
+
+
+
+
+Selected Answer:
+
+False
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 2
+0 out of 10 points
+
+
+
+
+
+
+convertto-json is used to send objects to the popular JSON database program
+
+
+
+
+
+
+
+
+Selected Answer:
+
+True
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 3
+10 out of 10 points
+
+
+
+
+
+
+An exit status of $true means the command succeeded.
+
+
+
+
+
+
+
+
+Selected Answer:
+
+True
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 4
+0 out of 10 points
+
+
+
+
+
+
+Which of the following will create an integer variable with a value of 500gb?
+
+
+
+
+
+
+
+
+Selected Answer:
+
+$size=500,000,000,000
+
+Answers:
+
+$size=500,000,000,000
+
+
+
+[long]$size=500gb
+
+
+
+[int]$size=500gb
+
+
+
+$size=[int]500gb
+
+
+
+
+
+
+
+Question 5
+0 out of 10 points
+
+
+
+
+
+
+The select-object command is used to choose an object from a collection based on the values of its properties
+
+
+
+
+
+
+
+
+Selected Answer:
+
+True
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 6
+0 out of 10 points
+
+
+
+
+
+
+Specifying 1kb on the command line is the short form for entering 1000
+
+
+
+
+
+
+
+
+Selected Answer:
+
+True
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 7
+0 out of 10 points
+
+
+
+
+
+
+Which command saves the most complete information about an object?
+
+
+
+
+
+
+
+
+Selected Answer:
+
+save-object
+
+Answers:
+
+export-csv
+
+
+
+$object > file
+
+
+
+save-object
+
+
+
+export-clixml
+
+
+
+
+
+
+
+Question 8
+0 out of 10 points
+
+
+
+
+
+
+You can assign a data type to a variable to enforce restrictions on what is stored in that variable
+
+
+
+
+
+
+
+
+Selected Answer:
+
+False
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+

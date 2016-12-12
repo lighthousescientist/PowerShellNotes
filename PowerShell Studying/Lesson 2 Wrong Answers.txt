@@ -1,0 +1,31 @@
+﻿Question 1
+0 out of 10 points
+Which of the following would you use to see the current values for all properties of an object?
+Selected Answer:	
+get-properties
+Answers:	
+fl *
+show-properties
+show-values
+
+Question 8
+0 out of 10 points
+What command would you use to move an alias to the env: drive?
+Selected Answer:	
+export-alias
+Answers:	
+you would not do that
+convert-alias
+move-alias
+
+
+Question 6
+0 out of 10 points
+Which of the following can be used to investigate the available methods in an object?
+Selected Answer:	
+show-methods
+Answers:	
+show-object
+ls object
+get-member
+

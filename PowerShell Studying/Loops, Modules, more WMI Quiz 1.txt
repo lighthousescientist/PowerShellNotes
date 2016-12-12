@@ -1,0 +1,66 @@
+﻿Question 1
+10 out of 10 points
+The get-command cmdlet can show a list of the commands contained in a module
+Selected Answer:	
+True
+Answers:	
+True
+False
+Question 2
+10 out of 10 points
+The GetRelated method can be used to find WMI objects related to a single device
+Selected Answer:	
+True
+Answers:	
+True
+False
+Question 3
+0 out of 10 points
+WMI objects are related to each other by their device name property
+Selected Answer:	
+True False
+Answers:	
+True
+False
+Question 4
+10 out of 10 points
+Which of the following would you use the perform the comparison "equal to"?
+Selected Answer:	
+-eq
+Answers:	
+=
+-equals
+-eq
+==
+Question 5
+0 out of 10 points
+A switch test must be a number or string to match the value(s) against
+Selected Answer:	
+True False
+Answers:	
+True
+False
+Question 6
+0 out of 10 points
+The break command is used to terminate a switch unless other script blocks match the value(s) being tested
+Selected Answer:	
+True False
+Answers:	
+True
+False
+Question 7
+10 out of 10 points
+The tests in a switch can be complete script blocks
+Selected Answer:	
+True
+Answers:	
+True
+False
+Question 8
+10 out of 10 points
+The if statement can test using multiple expressions
+Selected Answer:	
+True
+Answers:	
+True
+False

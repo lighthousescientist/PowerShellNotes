@@ -1,0 +1,66 @@
+﻿Question 1
+10 out of 10 points
+Adding attributes to a parameter declaration in a param statement makes your function and advanced function
+Selected Answer:	
+True
+Answers:	
+True
+False
+Question 2
+0 out of 10 points
+Powershell functions are stored on the function: drive
+Selected Answer:	
+False True
+Answers:	
+True
+False
+Question 3
+10 out of 10 points
+The verbose parameter is intended for end users, and the debug parameter is designed for developers
+Selected Answer:	
+True
+Answers:	
+True
+False
+Question 4
+0 out of 10 points
+Parsing $Args is the way to extract your parameters from the command line
+Selected Answer:	
+True False
+Answers:	
+True
+False
+Question 5
+10 out of 10 points
+Which parameter would you include when asking a user to enter a password?
+Selected Answer:	
+-AsSecureString
+Answers:	
+-s
+-AsSecureString
+-HideText
+-Password
+Question 6
+0 out of 10 points
+To make a parameter required, set the attribute named Required to true
+Selected Answer:	
+True False
+Answers:	
+True
+False
+Question 7
+0 out of 10 points
+A separate param statement is used for each parameter you want to use in your functions
+Selected Answer:	
+True False
+Answers:	
+True
+False
+Question 8
+10 out of 10 points
+The command line arguments for a script are found in $0, $1, $2, etc.
+Selected Answer:	
+False
+Answers:	
+True
+False

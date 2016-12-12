@@ -1,0 +1,72 @@
+﻿Question 1
+0 out of 10 points
+What command would you use to move an alias to the env: drive?
+Selected Answer:	
+export-alias
+Answers:	
+move-alias
+export-alias
+convert-alias
+you would not do that
+Question 2
+10 out of 10 points
+Adding attributes to a parameter declaration in a param statement makes your function and advanced function
+Selected Answer:	
+True
+Answers:	
+True
+False
+Question 3
+10 out of 10 points
+Which parameter would you include when asking a user to enter a password?
+Selected Answer:	
+-AsSecureString
+Answers:	
+-s
+-AsSecureString
+-HideText
+-Password
+Question 4
+10 out of 10 points
+The param statement allows setting a type for the parameter variables
+Selected Answer:	
+True
+Answers:	
+True
+False
+Question 5
+10 out of 10 points
+The debug parameter will send debugging information about your computer to Microsoft as necessary
+Selected Answer:	
+False
+Answers:	
+True
+False
+Question 6
+10 out of 10 points
+Using CmdletBinding() at the start of your function will make it recognize common parameters automatically
+Selected Answer:	
+True
+Answers:	
+True
+False
+Question 7
+10 out of 10 points
+Which of the following variables is used to access the current object in a script block?
+Selected Answer:	
+$_
+Answers:	
+$$
+$-
+$_
+$blockVariable
+Question 8
+0 out of 10 points
+Select the technique used to enforce the type of data saved in a variable
+Selected Answer:	
+mandatory
+Answers:	
+converting
+storing
+mandatory
+casting

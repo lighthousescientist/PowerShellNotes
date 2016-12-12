@@ -1,0 +1,72 @@
+﻿Question 1
+0 out of 10 points
+When does the loop command run during execution of a for loop?
+Selected Answer:	
+once for each object in the collection
+Answers:	
+*before the script block executes
+once for each object in the collection
+it only executes if the loop test is false
+after the script block executes
+Question 2
+10 out of 10 points
+The continue command
+Selected Answer:	
+causes the remainder of the current script block to be skipped
+Answers:	
+causes the remainder of the current script block to be skipped
+is used to keep a script going when it encounters errors
+is not a valid powershell command, it is a bash command
+is when you skip to the next exam question even if you don't know the answer to this one
+Question 3
+10 out of 10 points
+The if statement can test using multiple expressions
+Selected Answer:	
+True
+Answers:	
+True
+False
+Question 4
+10 out of 10 points
+The do command
+Selected Answer:	
+causes a script block to execute once before any testing is performed
+Answers:	
+is not a real command
+causes a script block to execute once before any testing is performed
+sets the taken flag on the I object
+negates the effect of the donot command
+Question 5
+10 out of 10 points
+The While command cannot be used without the Do command
+Selected Answer:	
+False
+Answers:	
+True
+False
+Question 6
+10 out of 10 points
+Which of the following would you use test the state of the "shared" status bit in the WMI object win32_printer?
+Selected Answer:	
+-band
+Answers:	
+=
+-eq
+-idle
+-band
+Question 7
+10 out of 10 points
+Using the if statement is problematic because you can only use one expression in your test
+Selected Answer:	
+False
+Answers:	
+True
+False
+Question 8
+10 out of 10 points
+Powershell modules are named with .mod at the end of their file name
+Selected Answer:	
+False
+Answers:	
+True
+False

@@ -1,0 +1,44 @@
+﻿1. How do we access methods and properties of objects?
+Selected Answer:	
+using dot notation
+2. Which of the following would you use to see a list of the verbs currently loaded in memory?
+Selected Answer:	
+get-verb
+3. Methods can return typed data
+Selected Answer:	
+True
+4. An object property can contain an object
+Selected Answer:	
+True
+5. A method is code in an object
+Selected Answer:	
+True
+6. An object collection cannot be saved as a property of another object
+Selected Answer:	
+False
+7. All object have a type
+Selected Answer:	
+True
+8. An object property is the file that holds the object
+Selected Answer:	
+False
+
+
+9. Which of the following would you use to get rid of duplicate objects in a collection?
+Selected Answer:	
+sort-object
+10. Powershell cannot do output redirection like bash
+Selected Answer:	
+False
+11. Object handles are obtained using the get-handle cmdlet
+Selected Answer:	
+False
+12. An object method is way of storing objects
+Selected Answer:		
+False
+13. A method is code in an object
+Selected Answer:	
+True
+
+
+

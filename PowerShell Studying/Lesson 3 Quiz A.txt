@@ -1,0 +1,290 @@
+﻿Question 1
+10 out of 10 points
+
+
+
+
+
+
+Quoting text on the command line causes Powershell to turn that text into a string object
+
+
+
+
+
+
+
+
+Selected Answer:
+
+True
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 2
+0 out of 10 points
+
+
+
+
+
+
+All objects have a type
+
+
+
+
+
+
+
+
+Selected Answer:
+
+False
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 3
+0 out of 10 points
+
+
+
+
+
+
+What command would you use to reduce the amount of data passing through a pipeline?
+
+
+
+
+
+
+
+
+Selected Answer:
+
+limit-size
+
+Answers:
+
+select-object
+
+
+
+limit-size
+
+
+
+convertto-csv
+
+
+
+shrink-object
+
+
+
+
+
+
+
+Question 4
+10 out of 10 points
+
+
+
+
+
+
+Parentheses can be used to specify the order in which command line operators are evaluated
+
+
+
+
+
+
+
+
+Selected Answer:
+
+True
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 5
+10 out of 10 points
+
+
+
+
+
+
+The band, bor, bxor operators are used to perform comparisons of binary values
+
+
+
+
+
+
+
+
+Selected Answer:
+
+False
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 6
+10 out of 10 points
+
+
+
+
+
+
+Array indexes can be a single integer object or a collection of integer objects
+
+
+
+
+
+
+
+
+Selected Answer:
+
+True
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 7
+10 out of 10 points
+
+
+
+
+
+
+The band, bor, bxor operators are used to combine binary values using boolean operations
+
+
+
+
+
+
+
+
+Selected Answer:
+
+True
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+Question 8
+0 out of 10 points
+
+
+
+
+
+
+Object references or handles are stored in variables
+
+
+
+
+
+
+
+
+Selected Answer:
+
+True
+
+Answers:
+
+True
+
+
+
+False
+
+
+
+
+
+
+
+
+
